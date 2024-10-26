@@ -1,5 +1,7 @@
 Arquivo teste do diretorio Git
 
+Alteracao na branch 2
+
 Linha dois
 
 Linha tres

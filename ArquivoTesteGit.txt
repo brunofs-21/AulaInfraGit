@@ -1,1 +1,6 @@
 Arquivo teste do diretorio Git
+
+Linha dois
+
+Linha tres.2
+

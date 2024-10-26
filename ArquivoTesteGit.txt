@@ -2,5 +2,6 @@ Arquivo teste do diretorio Git
 
 Linha dois
 
-Linha tres.2
+Linha tres
 
+Linha 6 (perdi a 4 e 5)
